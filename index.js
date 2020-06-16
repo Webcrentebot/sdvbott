@@ -4,10 +4,10 @@ const Twit = require('twit');
  * - Insert each Twitter credential inside it's equivalent quote.
  */
 const config = {
-  consumer_key: 'co1Q1GiekJZJ4eyOtzPEbNcaz',
-  consumer_secret: 'wZaBALj1MSKX22D9smjL0IFD9611CX7VYfu2xU28hOKNtaPIky',
-  access_token: '1272323184411512833-tDthFufIur9Sul5i3TY6zUj58tIqap',
-  access_token_secret: 'fOyZgXk7uRmkqLzN5utY4oWmbF5dJfea1BruiUGNMjjoA',
+  consumer_key: 'I9uXoWMKdMU6NWHla9q7oHGhK',
+  consumer_secret: 'zR1Nnmv0AWMhK9ji0l0AE53neJld7CwmX1AtXAJQzyev0aTXdC',
+  access_token: '1272735703856828416-eBynZU0x6z4oWuh2jvpK641grwZHTC',
+  access_token_secret: 'mjg7zc6uUP2lOTOUNL2O1XY4nPwyQs1si0C6suL3SK2cF',
 };
 
 /*
@@ -18,13 +18,13 @@ const config = {
  * - If "example" is between the selected words, the bot will retweet any variation of the word:
  *   example,Example,EXAMPLE,ExAmPlE...
  */
-const words = 'sdv,flb';
+const words = 'now united';
 
 /*
  * - Change 'mybot' with your bot account '@'.
  * - Example: if your account '@' is '@twitter_bot', you should write only 'twitter_bot'
  */
-const screenName = 'sdv_bot';
+const screenName = 'NowUnitedBot';
 
 /*
  * If you are a not a programmer, avoid changing anything on the next lines
