@@ -4,10 +4,10 @@ const Twit = require('twit');
  * - Insert each Twitter credential inside it's equivalent quote.
  */
 const config = {
-  consumer_key: 'I9uXoWMKdMU6NWHla9q7oHGhK',
-  consumer_secret: 'zR1Nnmv0AWMhK9ji0l0AE53neJld7CwmX1AtXAJQzyev0aTXdC',
-  access_token: '1272735703856828416-KxgwGnUcfbIpJemoufaKHW4ELtHmn3',
-  access_token_secret: 'YOgnTKlJi0d5KLQx1oKgFfxPUvXfHoN1ne4ocTZXTLUd7',
+  consumer_key: 'SzszEsDcbHkSU3ECtKXxcpQQc',
+  consumer_secret: 'TmbOKzU2VQb8h9bU4OIwy5Q3cOX1T9EQyxRy1zaxrN3QkVKCtc',
+  access_token: '1393029935875436544-sBSIOPrS5ZibKRfxRCb6Br1JgVDwfk',
+  access_token_secret: 'LRsMB9gVj82jI2wmpsKTpBQh3YW8NF0e0N6GxlK1Ih7Q5',
 };
 
 /*
@@ -18,13 +18,13 @@ const config = {
  * - If "example" is between the selected words, the bot will retweet any variation of the word:
  *   example,Example,EXAMPLE,ExAmPlE...
  */
-const words = 'segue de volta';
+const words = 'arctic monkeys';
 
 /*
  * - Change 'mybot' with your bot account '@'.
  * - Example: if your account '@' is '@twitter_bot', you should write only 'twitter_bot'
  */
-const screenName = 'SDV_Bot';
+const screenName = 'ARCTICM0NKEEYS';
 
 /*
  * If you are a not a programmer, avoid changing anything on the next lines
