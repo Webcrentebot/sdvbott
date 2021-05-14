@@ -4,10 +4,10 @@ const Twit = require('twit');
  * - Insert each Twitter credential inside it's equivalent quote.
  */
 const config = {
-  consumer_key: 'SzszEsDcbHkSU3ECtKXxcpQQc',
-  consumer_secret: 'TmbOKzU2VQb8h9bU4OIwy5Q3cOX1T9EQyxRy1zaxrN3QkVKCtc',
-  access_token: '1393029935875436544-sBSIOPrS5ZibKRfxRCb6Br1JgVDwfk',
-  access_token_secret: 'LRsMB9gVj82jI2wmpsKTpBQh3YW8NF0e0N6GxlK1Ih7Q5',
+  consumer_key: '0KjXS7DIpTIFycVEl2mBs6IfM',
+  consumer_secret: 'H6r72CMLYNN97zwqAQDv99vH9g8UApPJDTR73wKCB5bnwwULD2',
+  access_token: '1393029935875436544-l6y7lLpPLsjPQwZJfp8QfEaP5ec7Ps',
+  access_token_secret: 'VApA8zLopmkcWE5Pgmi1REh0BgOOCkf2hDdzHMaZ1V30i',
 };
 
 /*
